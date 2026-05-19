@@ -73,11 +73,6 @@ I am a Software Engineer currently pursuing a **Master's degree in Artificial In
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serdarm09&show_icons=true&theme=radium&hide_border=true" alt="Serdar's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serdarm09&theme=radium&hide_border=true" alt="Serdar's GitHub Streak" />
-</p>
-
-<p align="center">
   <i>"Building the future with data and algorithms."</i><br>
   <img src="https://komarev.com/ghpvc/?username=Serdarm09&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
