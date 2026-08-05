@@ -43,7 +43,6 @@ I am a Software Engineer currently pursuing a **Master's degree in Artificial In
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| **[Nara Accessories](http://www.naraaccessories.store)** | Full-Stack E-commerce & Marketplace platform with a comprehensive admin dashboard and JWT authentication architecture. | `Next.js 15` `TypeScript` `MongoDB` `Tailwind` |
 | **[Weather For Fishing](https://weatherforfishing.com)** | Android & Web app providing specialized weather analytics, forecasting, and fishing scores with Google Maps integration. | `Flutter` `Google APIs` `JavaScript` |
 | **AI Sustainability Analysis** | Scientific research project analyzing global renewable energy adoption patterns using reinforcement learning algorithms. Published in IEEE. | `Python` `PyTorch` `Q-Learning` `NumPy` |
 
