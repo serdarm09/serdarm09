@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Serdar Mammadov 👋</h1>
+<h1 align="center">Hi, I'm Serdar 👋</h1>
 <h3 align="center">Computer Engineer | Backend Developer | AI Researcher</h3>
 
 <p align="center">
@@ -17,9 +17,6 @@
 I am a Software Engineer currently pursuing a **Master's degree in Artificial Intelligence**. I specialize in building modern, scalable solutions across Backend, Data Science, and Mobile Application development. I am deeply passionate about microservices architectures, NoSQL databases, and integrating AI into real-world applications.
 
 - 🔭 Actively developing advanced Full-Stack platforms and intelligent mobile applications.
-- 🎓 **Publications:** Lead researcher for *"Sustainability Analyses in Hydroelectric, Wind, and Solar Energy Systems with Artificial Intelligence"*, [published in IEEE](https://ieeexplore.ieee.org/document/11017224).
-- 💬 Ask me about **Python, JavaScript, Flutter, C#, and Machine Learning**.
-- 📫 Reach out to me: **serdarmemed@gmail.com**
 
 ---
 
